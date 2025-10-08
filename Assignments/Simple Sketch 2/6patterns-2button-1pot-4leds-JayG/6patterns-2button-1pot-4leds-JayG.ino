@@ -5,14 +5,14 @@
 
 
 //  Initiallizing the components to their respective pins
-#define LED1_PIN   46
-#define LED2_PIN    4
-#define LED3_PIN   37
-#define LED4_PIN   40
+const int LED1_PIN = 46;
+const int LED2_PIN = 4;
+const int LED3_PIN = 37;
+const int LED4_PIN = 40;
 
-#define BTN_BLINK   6   // press = blink the current state once
-#define BTN_NEXT    7   // press = go to next state (0..5)
-#define POT_PIN    10   // pot sets on/off time (same value)
+const int BTN_BLINK = 6;  // press = blink the current state once
+const int BTN_NEXT = 7;   // press = go to next state (0..5)
+const int POT_PIN = 10;   // pot sets on/off time (same value)
 
 //  state 0 to 5:
 //  0: only LED1
