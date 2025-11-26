@@ -110,7 +110,7 @@ For my final project in MTEC2280, I will expand my earlier ESP32 ↔ p5.js music
 ---
 ## 7. Week-by-Week Timeline
 
-**Week of 11/26 — Proposal Due**
+### Week of 11/26 — Proposal Due
 
 - Deliverable: Submit written proposal only.
 - No build or coding required this week.
@@ -122,7 +122,7 @@ Focus this week:
 
 ---
 
-**Week of 12/03 — WIP 1 Due**
+### Week of 12/03 — WIP 1 Due
 
 **Hardware Goals**
 
