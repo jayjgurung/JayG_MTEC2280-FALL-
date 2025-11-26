@@ -108,6 +108,7 @@ For my final project in MTEC2280, I will expand my earlier ESP32 ↔ p5.js music
 *Helps with schematic → PCB → fabrication workflow. My PCB integrates microcontroller logic, UI controls, and amplifier system.*
 
 ---
+
 ## 7. Week-by-Week Timeline
 
 ### Week of 11/26 — Proposal Due
