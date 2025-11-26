@@ -108,85 +108,113 @@ For my final project in MTEC2280, I will expand my earlier ESP32 ↔ p5.js music
 *Helps with schematic → PCB → fabrication workflow. My PCB integrates microcontroller logic, UI controls, and amplifier system.*
 
 ---
-
 ## 7. Week-by-Week Timeline
 
-###  Week of 11/26 — Proposal Due
-- Finalize concept + feature list
-- Draw initial sketches
-- Begin testing all potentiometers and switches on breadboard
-- Expand keyboard note list in p5.js
-- Research ESP32 DAC sine wave audio
+### Week of 11/26 — Proposal Due
+
+- Deliverable: Submit written proposal only.
+- No build or coding required this week.
+
+Focus this week:
+
+- Turn in proposal
+- Begin light planning
 
 ---
 
 ### Week of 12/03 — WIP 1 Due
 
-**Hardware Goals:**
-- Breadboard prototype with:
-  - Tempo knob
-  - Note-length knob
-  - Root-note scroll knob
-  - Root-note “Apply” button
-  - Major/Minor toggle
-  - Notes/Arpeggio toggle
-  - Sine/Square waveform toggle
-  - Volume slider in amplifier circuit
+**Hardware Goals**
 
-**Software Goals:**
-- p5.js updated for three rows of keyboard input
-- p5.js sends expanded note data to ESP32
-- ESP32 sketch supports new input modes + settings
-- Begin writing envelope logic for note length
+- Start breadboard prototyping
+  - Test potentiometers (tempo, note length, root-note scroll)
+  - Test toggle switches (major/minor, notes/arpeggio, sine/square)
+  - Test Apply Root Note button
+  - Begin basic wiring layout planning for PCB
 
-**Fabrication Goals:**
-- First pass of PCB schematic in KiCad
-- Simple mock-up enclosure in Fusion
+**Software Goals**
+
+- Expand p5.js to recognize three rows of keyboard input
+- Define a compact serial protocol for expanded note data
+- Update ESP32 sketch to accept:
+  - Scale mode switch
+  - Waveform mode
+  - Note-length input
+  - Root-note selection input
+
+**Fabrication Goals**
+
+- Begin first draft of PCB schematic in KiCad
+- Start rough 3D enclosure planning (basic measurements)
+
+**Deliverables for WIP1**
+
+- Breadboard test of inputs
+- Updated p5.js note mapping
+- Early ESP32 code structure (pseudocode acceptable)
+- KiCad schematic draft (not routed)
 
 ---
 
 ### Week of 12/10 — WIP 2 Due
 
-**Hardware Goals:**
-- Implement sine wave via ESP32 DAC
-- Integrate amplifier + speaker
-- Full prototype on breadboard
-- Finalize volume slider functionality
+**Hardware Goals**
 
-**Software Goals:**
-- Arpeggio logic for controllable note length
-- Updated p5.js UI feedback
-- Full input → sound chain operational
+- Complete full breadboard prototype:
+  - Tempo knob working
+  - Note-length knob working
+  - Root-note scroll + Apply button
+  - Major/minor, sine/square, notes/arpeggio toggles
+  - Speaker + amplifier integrated
+  - Volume slider functional
+  - Implement sine wave output via ESP32 DAC
 
-**Fabrication Goals:**
-- Final PCB layout ready for order
-- Final enclosure model in Fusion
-- Order PCB
+**Software Goals**
 
-**Deliverables for 12/10:**
-- Working prototype
-- Code progress
-- PCB files
-- Enclosure 3D model
+- Implement note-length logic while maintaining BPM
+- Integrate amplifier-safe amplitude control
+- Update p5.js UI to reflect new modes and inputs
+- Confirm all serial messages work with ESP32
 
----
+**Fabrication Goals**
 
-### Week of 12/17 — Final Presentation / Critique
+- Finalize full PCB layout (schematic + traces)
+- Finalize 3D enclosure model in Fusion 360
+- Order PCB from manufacturer
 
-**Hardware Goals:**
-- Receive PCB and solder all components
-- Assemble final enclosure
+**Deliverables for WIP2**
 
-**Software Goals:**
-- Final debugging
-- Polish p5.js UI
-- Add visualizations if time permits
-
-**Final Deliverables:**
-- Fully functional hardware musical controller
-- Custom PCB + 3D enclosure
-- Working modes: major/minor, notes/arpeggio, sine/square
-- Expanded keyboard mapping
-- Final documentation (README, video demo, images)
+- Fully functional breadboard prototype
+- Working ESP32 + p5.js communication
+- Ready-to-order PCB files (Gerbers)
+- Final 3D enclosure model render
 
 ---
+
+### Week of 12/17 — Final Presentation & Critique
+
+**Hardware Goals**
+
+- Receive and assemble PCB
+- Solder all components
+- Mount PCB inside 3D-printed enclosure
+- Install speaker, knobs, toggles, and secure all wiring
+- Perform full system test & debugging
+
+**Software Goals**
+
+- Finalize ESP32 code (notes, arpeggios, waveform modes, BPM)
+- Finalize p5.js interface & keyboard visual feedback
+- Optimize serial timing
+
+**Final Deliverables**
+
+- Fully assembled device
+  - Custom PCB
+  - 3D-printed enclosure
+  - Amplified speaker output
+  - Full set of knobs + toggles working
+- Demonstration video
+- Final code
+- Documentation with images and explanations
+- In-class presentation
