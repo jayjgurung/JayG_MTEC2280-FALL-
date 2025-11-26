@@ -9,12 +9,41 @@ This repo contains all of my coursework, including assignments, practice sketche
 
 ## Repository Structure
 
-| Folder | Contents |
-|--------|----------|
-| **Assignments** | ShortSketch#3, ShortSketch#4, ShortSketch#5, Simple Sketch 1, Simple Sketch 2, Sketch#6 |
-| **Final-Project-JayG** | Final Project - Arpeggiated Musical Controller |
-| **Midterm-Project-JayG** | Midterm_Sketch_JayG, Midterm_Sketch_JayG_V_2 |
-| **Practice Sketches** | 01_PracticeSketch_JJG_9-10-2025, 4led-6pattern-2buttn-1pot-JayG, Analog2DigitalConverter-Practice, Button-Counter_Practice, LDR_practice, OCT22 P5.js practice, PotPracticeSketch-VoltageDivider-JayG_10-8-2025, PushButton-Practice, S08-Arduino to Multi Sensor, S09-Serial_P5_to_Arduino_LED, S10-Serial_HandShaking, Serial_Write, SerialMonitor Control App, Toggle_Button, TouchpinExample |
+```
+JayG_MTEC2280-FALL-/
+│
+├── Assignments/
+│   ├── ShortSketch#3/
+│   ├── ShortSketch#4/
+│   ├── ShortSketch#5/
+│   ├── Simple Sketch 1/
+│   ├── Simple Sketch 2/
+│   └── Sketch#6/
+│
+├── Final-Project-JayG/
+│   └── Arpeggiated Musical Controller
+│
+├── Midterm-Project-JayG/
+│   ├── Midterm_Sketch_JayG/
+│   └── Midterm_Sketch_JayG_V_2/
+│
+└── Practice Sketches/
+    ├── 01_PracticeSketch_JJG_9-10-2025/
+    ├── 4led-6pattern-2buttn-1pot-JayG/
+    ├── Analog2DigitalConverter-Practice/
+    ├── Button-Counter_Practice/
+    ├── LDR_practice/
+    ├── OCT22 P5.js practice/
+    ├── PotPracticeSketch-VoltageDivider-JayG_10-8-2025/
+    ├── PushButton-Practice/
+    ├── S08-Arduino to Multi Sensor/
+    ├── S09-Serial_P5_to_Arduino_LED/
+    ├── S10-Serial_HandShaking/
+    ├── Serial_Write/
+    ├── SerialMonitor Control App/
+    ├── Toggle_Button/
+    └── TouchpinExample/
+```
 
 ---
 
