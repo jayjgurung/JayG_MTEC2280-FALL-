@@ -4,7 +4,7 @@ Title: Expanded Arpeggiated Musical Controller
 Student: Jay Jung Gurung
 Due Date: November 26, 2025
 
-⸻
+⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻
 
 1. Concept Description & Inspiration
 
@@ -18,11 +18,9 @@ My previous project allowed me to:
 
 This new version will evolve that idea into a feature-rich, physical musical device with added control, new input methods, improved audio, and custom fabrication. The goal is to create a small, self-contained musical controller that blends physical interaction, serial communication, and sound generation on an ESP32.
 
-⸻
+⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻
 
 2. Sketch of the Design
-
-(I can generate a visual sketch if you want—just say “make the sketch.”)
 
 Verbal layout description:
 	•	A compact control panel with:
@@ -37,7 +35,7 @@ Verbal layout description:
 	•	ESP32 mounted on a custom PCB
 	•	All components housed in a custom 3D-printed enclosure
 
-⸻
+⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻
 
 3. Materials List
 
@@ -71,7 +69,7 @@ Physical Materials
 	•	Screws (M3 or ¼-20 depending on design)
 	•	Solder & fabrication tools
 
-⸻
+⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻
 
 4. Skills I Already Have
 	•	Serial communication between p5.js and ESP32
@@ -83,7 +81,7 @@ Physical Materials
 	•	Basic PCB workflow and design
 	•	Basic 3D modeling and fabrication
 
-⸻
+⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻
 
 5. Skills I Need to Learn (Technical Research Challenge)
 
@@ -98,7 +96,7 @@ This project introduces new technical challenges beyond class content:
 
 These items provide the required independent technical research component.
 
-⸻
+⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻
 
 6. Precedent Research (with Short Explanations)
 
@@ -120,7 +118,7 @@ https://www.kicad.org/discover/
 Relevance: Helps with schematic → PCB → fabrication workflow.
 Difference: My PCB integrates microcontroller logic, UI controls, and amplifier system.
 
-⸻
+⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻
 
 7. Week-by-Week Timeline
 
@@ -133,7 +131,7 @@ Goals:
 	•	Expand keyboard note list in p5.js
 	•	Research ESP32 DAC sine wave audio
 
-⸻
+⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻
 
 📅 Week of 12/03 — WIP 1 Due
 
@@ -158,7 +156,7 @@ Fabrication Goals:
 	•	First pass of PCB schematic in KiCad
 	•	Simple mock-up enclosure in Fusion
 
-⸻
+⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻
 
 📅 Week of 12/10 — WIP 2 Due
 
@@ -184,7 +182,7 @@ Deliverables for 12/10:
 	•	PCB files
 	•	Enclosure 3D model
 
-⸻
+⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻
 
 📅 Week of 12/17 — Final Presentation / Critique
 
