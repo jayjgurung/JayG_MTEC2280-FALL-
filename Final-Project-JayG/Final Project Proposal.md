@@ -111,7 +111,7 @@ For my final project in MTEC2280, I will expand my earlier ESP32 ↔ p5.js music
 
 ## 7. Week-by-Week Timeline
 
-### 📅 Week of 11/26 — Proposal Due
+###  Week of 11/26 — Proposal Due
 - Finalize concept + feature list
 - Draw initial sketches
 - Begin testing all potentiometers and switches on breadboard
@@ -120,7 +120,7 @@ For my final project in MTEC2280, I will expand my earlier ESP32 ↔ p5.js music
 
 ---
 
-### 📅 Week of 12/03 — WIP 1 Due
+###  Week of 12/03 — WIP 1 Due
 
 **Hardware Goals:**
 - Breadboard prototype with:
@@ -145,7 +145,7 @@ For my final project in MTEC2280, I will expand my earlier ESP32 ↔ p5.js music
 
 ---
 
-### 📅 Week of 12/10 — WIP 2 Due
+###  Week of 12/10 — WIP 2 Due
 
 **Hardware Goals:**
 - Implement sine wave via ESP32 DAC
@@ -171,7 +171,7 @@ For my final project in MTEC2280, I will expand my earlier ESP32 ↔ p5.js music
 
 ---
 
-### 📅 Week of 12/17 — Final Presentation / Critique
+###  Week of 12/17 — Final Presentation / Critique
 
 **Hardware Goals:**
 - Receive PCB and solder all components
