@@ -27,8 +27,6 @@ For my final project in MTEC2280, I will expand my earlier ESP32 ↔ p5.js music
 
 ## 2. Sketch of the Design
 
-*(Say “make the sketch” if you want a visual sketch)*
-
 **Verbal layout:**
 - Compact control panel with:
   - Three rotary knobs (tempo, note length, root-note selector)
