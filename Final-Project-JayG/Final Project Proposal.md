@@ -2,7 +2,7 @@
 
 **Title:** Expanded Arpeggiated Musical Controller  
 **Student:** Jay Jung Gurung  
-**Due Date:** November 26, 2025
+**Date:** November 26, 2025
 
 ---
 
