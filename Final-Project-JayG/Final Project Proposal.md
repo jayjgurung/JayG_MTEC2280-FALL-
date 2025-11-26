@@ -120,7 +120,7 @@ Focus this week:
 - Turn in proposal
 - Begin light planning
 
----
+--
 
 ### Week of 12/03 — WIP 1 Due
 
